@@ -24,7 +24,7 @@ koding 1 : <br>
 ![alt text](https://github.com/diananur/ARRAY/blob/master/3.PNG)<br>
 
 koding 2 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br><br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/PAPAT.PNG)<br><br>
 
 Array pada form Netbeans<br><br>
 kondisi 1 : <br>
