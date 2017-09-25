@@ -45,13 +45,13 @@ kondisi 2 : <br>
 
 TUGAS PRAKTIKUM II<br><br>
 kondisi 1 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/.PNG)<br>
 
 kondisi 2 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/8.PNG)<br>
 
 kondisi 3 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/9.PNG)<br>
 
 kondisi
 
