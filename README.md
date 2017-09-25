@@ -28,13 +28,13 @@ koding 2 : <br>
 
 Array pada form Netbeans<br><br>
 kondisi 1 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/dokter1.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/5.PNG)<br>
 
 kondisi 2 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/dokter2.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/6.PNG)<br>
 
 kondisi 3 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/dokter3.PNG)<br><br><br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/7.PNG)<br><br><br>
 
 Tugas Praktikum 1 <br><br>
 kondisi 1 : <br>
