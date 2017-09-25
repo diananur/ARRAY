@@ -58,3 +58,6 @@ kondisi 4 : <br>
 
 kondisi 5 : <br>
 ![alt text](https://github.com/diananur/ARRAY/blob/master/12.PNG)<br>
+
+kondisi 6 : <br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/13.PNG)<br>
