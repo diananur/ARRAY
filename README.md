@@ -14,44 +14,44 @@ B. Latihan Praktikum <br><br><br>
 
 Array Single Dimensi<br><br>
 koding 1 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/1.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/1.PNG)<br>
 
 koding 2 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/2.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/2.PNG)<br>
 
 Array Multi Dimensi<br><br>
 koding 1 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/3.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/3.PNG)<br>
 
 koding 2 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/4.PNG)<br><br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br><br>
 
 Array pada form Netbeans<br><br>
 kondisi 1 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/dokter1.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/dokter1.PNG)<br>
 
 kondisi 2 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/dokter2.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/dokter2.PNG)<br>
 
 kondisi 3 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/dokter3.PNG)<br><br><br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/dokter3.PNG)<br><br><br>
 
 Tugas Praktikum 1 <br><br>
 kondisi 1 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/prak1.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/prak1.PNG)<br>
 
 kondisi 2 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/prak1a.PNG)<br><br><br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/prak1a.PNG)<br><br><br>
 
 TUGAS PRAKTIKUM II<br><br>
 kondisi 1 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/4.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br>
 
 kondisi 2 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/4.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br>
 
 kondisi 3 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/4.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/4.PNG)<br>
 
 kondisi
 
