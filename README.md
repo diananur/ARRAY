@@ -45,7 +45,7 @@ kondisi 2 : <br>
 
 TUGAS PRAKTIKUM II<br><br>
 kondisi 1 : <br>
-![alt text](https://github.com/diananur/ARRAY/blob/master/.PNG)<br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/10.PNG)<br>
 
 kondisi 2 : <br>
 ![alt text](https://github.com/diananur/ARRAY/blob/master/8.PNG)<br>
@@ -53,5 +53,8 @@ kondisi 2 : <br>
 kondisi 3 : <br>
 ![alt text](https://github.com/diananur/ARRAY/blob/master/9.PNG)<br>
 
-kondisi
+kondisi 4 : <br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/11.PNG)<br>
 
+kondisi 5 : <br>
+![alt text](https://github.com/diananur/ARRAY/blob/master/12.PNG)<br>
