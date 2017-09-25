@@ -34,17 +34,16 @@ kondisi 2 : <br><br>
 ![alt text](https://github.com/diananur/GUI/blob/master/dokter2.PNG)<br>
 
 kondisi 3 : <br><br>
-![alt text](https://github.com/diananur/GUI/blob/master/dokter3.PNG)<br><BR>
+![alt text](https://github.com/diananur/GUI/blob/master/dokter3.PNG)<br><<br>
 
-Tugas Praktikum 1 <br><br><br>
+Tugas Praktikum 1 <br><br>
 kondisi 1 : <br>
 ![alt text](https://github.com/diananur/GUI/blob/master/prak1.PNG)<br>
 
 kondisi 2 : <br>
-![alt text](https://github.com/diananur/GUI/blob/master/prak1a.PNG)<br>
+![alt text](https://github.com/diananur/GUI/blob/master/prak1a.PNG)<br><br>
 
-TUGAS PRAKTIKUM II<br><br><br>
-
+TUGAS PRAKTIKUM II<br><br>
 kondisi 1 : <br>
 ![alt text](https://github.com/diananur/GUI/blob/master/4.PNG)<br>
 
